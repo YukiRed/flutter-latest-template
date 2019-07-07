@@ -1,6 +1,10 @@
 # latest_template
 
-A new Flutter project.
+
+
+This is just a template with the latest update
+- converted to androidx
+- update to latest gradle
 
 ## Getting Started
 
